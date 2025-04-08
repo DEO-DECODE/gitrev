@@ -1,0 +1,2 @@
+This is the first line
+I guess, it will not rewrite the history
