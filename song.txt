@@ -1,3 +1,4 @@
 It's a new rule
 It's a oneliner for G
 Add-Task ka work.
+Delete Task ka Work.
